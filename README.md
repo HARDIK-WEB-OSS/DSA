@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Hash Table
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
