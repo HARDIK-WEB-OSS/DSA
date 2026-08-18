@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
