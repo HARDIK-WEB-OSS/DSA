@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
