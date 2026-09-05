@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
