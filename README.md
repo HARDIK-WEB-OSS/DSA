@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1386-cinema-seat-allocation](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
