@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -153,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0049-group-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0049-group-anagrams) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Design
 |  |
 | ------- |
