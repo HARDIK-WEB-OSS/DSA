@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Sliding Window
 |  |
 | ------- |
