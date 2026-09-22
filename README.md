@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## DP on Trees
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
