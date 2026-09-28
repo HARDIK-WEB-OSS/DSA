@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0155-min-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0049-group-anagrams) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
