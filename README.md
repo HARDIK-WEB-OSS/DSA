@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3536-maximum-product-of-two-digits](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
 |  |
 | ------- |
