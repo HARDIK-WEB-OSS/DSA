@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0155-min-stack) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0049-group-anagrams) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
