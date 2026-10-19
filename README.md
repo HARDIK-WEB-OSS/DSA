@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Design
