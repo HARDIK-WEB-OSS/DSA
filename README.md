@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3886-sum-of-sortable-integers](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3886-sum-of-sortable-integers](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Design
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
