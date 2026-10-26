@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARDIK-WEB-OSS/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3886-sum-of-sortable-integers](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/HARDIK-WEB-OSS/DSA_LeetCode/tree/master/0547-number-of-provinces) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARDIK-WEB-OSS/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
